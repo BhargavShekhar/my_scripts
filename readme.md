@@ -17,8 +17,9 @@ Instead, this solution:
 ### 1. Create script (run as root or with sudo)
 ```bash
 sudo nano /lib/systemd/system-sleep/auto_shutdown.sh
+```
 
 ### 2. Make it executable
 ```bash
 sudo chmod +x /lib/systemd/system-sleep/auto_shutdown.sh
-
+```
